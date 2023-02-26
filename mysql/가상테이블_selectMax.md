@@ -1,8 +1,6 @@
 링크
 https://school.programmers.co.kr/learn/courses/30/lessons/131124
 
-정답 처리가 안나는 이유를 모르겠어서 다른사람 쿼리로 이해후 제출
-
 * WITH 별칭 () SELCET 별칭 으로 가상테이블 사용 가능
 * GROUP BY 1 만족하는 데이터 없을경우 결과 출력되지 않음
 * ORDER BY 숫자에 해당하는 열 기준으로 오름차순 or 내림차순 정렬
